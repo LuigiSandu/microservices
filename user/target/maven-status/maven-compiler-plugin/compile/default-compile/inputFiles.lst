@@ -1,0 +1,11 @@
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\repository\UserRepository.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\service\UserService.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\dto\UserMapper.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\controller\UserController.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\config\RestClientConfig.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\dto\UserRequest.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\dto\UserResponse.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\model\User.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\aop\RestExceptionHandler.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\exception\UserAlreadyExistsException.java
+C:\Dev\pps-project\user\src\main\java\com\edc\pps\user\UserApp.java

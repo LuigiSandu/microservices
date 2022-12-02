@@ -1,0 +1,11 @@
+com\edc\pps\user\exception\UserAlreadyExistsException.class
+com\edc\pps\user\model\User.class
+com\edc\pps\user\repository\UserRepository.class
+com\edc\pps\user\dto\UserResponse.class
+com\edc\pps\user\UserApp.class
+com\edc\pps\user\aop\RestExceptionHandler.class
+com\edc\pps\user\service\UserService.class
+com\edc\pps\user\config\RestClientConfig.class
+com\edc\pps\user\dto\UserRequest.class
+com\edc\pps\user\dto\UserMapper.class
+com\edc\pps\user\controller\UserController.class
